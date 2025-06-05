@@ -1,0 +1,249 @@
+✅ Module 1 – Foundation
+
+1. What is HTTP?
+HTTP (HyperText Transfer Protocol) is the protocol used to transfer web pages on the internet.
+
+2. What is a Browser? How they work?
+A browser (like Chrome) is software that helps you view websites. It sends a request to a web server and displays the result.
+
+3. What is Domain Name?
+A domain name is the address of a website (e.g., google.com).
+
+4. What is Hosting?
+Hosting is a service that stores website files on a server to make them accessible online.
+
+
+✅ Module 2 – Fundamentals of WWW
+
+1. Difference between Web Designer and Web Developer
+
+Designer: Focus on website look/design.
+
+Developer: Write code to make the website work.
+
+
+2. What is W3C?
+W3C (World Wide Web Consortium) sets rules for how websites should be made.
+
+3. What is Domain?
+Website name (like facebook.com) used to access a site.
+
+4. What is SEO?
+SEO (Search Engine Optimization) helps websites appear higher in search results.
+
+5. What is SDLC life cycle?
+SDLC (Software Development Life Cycle) is the step-by-step process to create software.
+
+LAB EXERCISE – Phases of SDLC:
+
+1. Requirement gathering
+2. Design
+3. Development
+4. Testing
+5. Deployment
+6. Maintenance
+
+✅ Module 3 – Fundamentals of IT
+
+What is a Program?
+A set of instructions given to the computer to perform a task.
+
+LAB EXERCISE:
+Write “Hello World” in two languages (e.g., C and Python).
+Compare how both are written.
+
+What is Programming?
+Writing code (instructions) to solve problems using a computer.
+
+Steps in Programming:
+
+1. Understand the problem
+2. Plan solution
+3. Write code
+4. Test
+5. Fix errors
+6. Finalize
+
+Types of Programming Languages:
+
+High-level: Easy to read (Python, Java)
+
+Low-level: Close to machine (Assembly, C)
+
+
+World Wide Web & How Internet Works:
+Data goes from your browser → to server → server replies → browser shows result.
+
+LAB EXERCISE:
+Make a diagram showing data flow:
+Client → Request → Server → Response → Client
+
+
+Network Layers on Client and Server
+
+Q: Explain the function of the TCP/IP model and its layers.
+A: TCP/IP has 4 layers:
+
+1. Application – User interaction (e.g., HTTP).
+
+
+2. Transport – Data delivery (e.g., TCP).
+
+
+3. Internet – Data routing (e.g., IP).
+
+
+4. Network Access – Physical transmission (e.g., Ethernet).
+
+
+Client and Servers
+
+Q: Explain Client Server Communication.
+A: A client requests data; the server provides it. Example: A browser (client) requests a webpage from a server.
+
+Types of Internet Connections
+
+Q: How does broadband differ from fiber-optic internet?
+A: Broadband uses cables/wires, slower; fiber-optic uses light, faster and more reliable.
+
+Protocols
+
+Q: What are the differences between HTTP and HTTPS protocols?
+A: HTTPS is secure (uses encryption), HTTP is not. HTTPS uses SSL/TLS.
+
+Application Security
+
+Q: What is the role of encryption in securing application, Software Applications and Its Types
+A: Encryption protects data.
+Types:
+
+System Software (OS)
+
+Application Software (Games, MS Word)
+
+
+Q: What is the difference between system software and application software?
+A: System software runs the computer (e.g., OS).
+Application software performs tasks (e.g., browsers).
+
+
+Software Architecture
+
+Q: What is the significance of modularity in software architecture?
+A: Modularity breaks software into parts, making it easier to build, test, and update.
+
+Layers in Software Architecture
+
+Q: Why are layers important in software architecture?
+A: Layers organize code by functions: UI, logic, and data. This improves clarity and maintenance.
+
+Software Environments
+
+Q: Explain the importance of a development environment in software production.
+A: It lets developers build and test code safely before going live.
+
+Source Code
+
+Q: What is the difference between source code and machine code?
+A: Source code is human-readable (e.g., Python), machine code is binary for computers.
+
+Q: Why is version control important in software development?
+A: It tracks changes and helps teams work on code together without conflicts.
+
+
+Student Account in GitHub
+
+Q: What are the benefits of using GitHub for students?
+A: It helps share code, work in teams, and learn real-world development.
+
+Types of Software
+
+Q: What are the differences between open-source and proprietary software?
+A: Open-source is free and modifiable. Proprietary is paid and closed-source.
+
+GIT and GITHUB Training
+
+Q: How does GIT improve collaboration in a software development team?
+A: Git lets team members work on the same code, manage changes, and merge updates.
+
+
+Application Software
+
+Q: What is the role of application software in businesses?
+A: It helps perform tasks like billing, accounting, and documentation to improve productivity.
+
+Software Development Process
+
+Q: What are the main stages of the software development process?
+A: Planning, Analysis, Design, Development, Testing, Deployment, and Maintenance.
+
+Software Requirement
+
+Q: Why is the requirement analysis phase critical in software development?
+A: It helps understand what the user needs to build the right software.
+
+
+Software Analysis
+
+Q: What is the role of software analysis in the development process?
+A: It ensures the software meets user and system requirements.
+
+
+System Design
+
+Q: What are the key elements of system design?
+A: Architecture, data design, interface design, and process design.
+
+Software Testing
+
+Q: Why is software testing important?
+A: It finds and fixes bugs to make sure the software works correctly.
+
+Maintenance
+
+Q: What types of software maintenance are there?
+A: Corrective, Adaptive, Perfective, and Preventive.
+
+Development
+
+Q: What are the key differences between web and desktop applications?
+A: Web apps run in browsers; desktop apps run on installed systems.
+
+Web Application
+
+Q: What are the advantages of using web applications over desktop applications?
+A: They are easy to access, update, and don’t need installation.
+
+
+---
+
+Designing
+
+Q: What role does UI/UX design play in application development?
+A: It improves user satisfaction and app usability.
+
+
+Mobile Application
+
+Q: What are the differences between native and hybrid mobile apps?
+A: Native apps are built for one platform; hybrid apps work on many.
+
+
+DFD (Data Flow Diagram)
+
+Q: What is the significance of DFDs in system analysis?
+A: They show how data moves in a system, making it easy to understand.
+
+
+Desktop Application
+
+Q: What are the pros and cons of desktop applications compared to web applications?
+A: Pros: Fast, offline use. Cons: Need installation, updates are harder.
+
+Flow Chart
+
+Q: How do flowcharts help in programming and system design?
+A: They show the logic clearly, helping in planning and debugging.
+
+
+
